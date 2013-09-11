@@ -5,6 +5,8 @@
 It is a sample sinatra application that reproduce an issue on Redis.rb with
 synchrony driver.
 
+https://github.com/redis/redis-rb/issues/365
+
 ### Install
 
 1. Clone this project
